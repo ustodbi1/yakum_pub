@@ -1,2 +1,0 @@
-# yakum_pub
-jjj
